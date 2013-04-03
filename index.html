@@ -1,0 +1,14 @@
+---
+layout: default
+title: Home
+---
+{% for post in site.posts limit: 6 %}
+		{% assign author = site.authors[post.author] %}
+	        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+	        <div class="meta">Written by <a href="{{ author.url }}">{{ author.display_name }}</a> on <span class="date">{{ post.date | date_to_long_string }}</span>.</div>
+		{{ post.content | split:'<!--break-->' | first }}
+      	{% if post.content contains '<!--break-->' %}
+      		 <a href="{{ post.url }}">Read more…</a>
+      	{% endif %}
+		<hr/>
+{% endfor %}

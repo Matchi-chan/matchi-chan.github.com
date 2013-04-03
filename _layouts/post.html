@@ -1,0 +1,11 @@
+---
+layout: default
+---
+{% assign author = site.authors[page.author] %}
+<div class="post">
+	<h3>{{ page.title }}</h3>
+		<div class="meta">Written by <a href="{{ author.url }}">{{ author.display_name }}</a> on <span class="date">{{ page.date | date_to_long_string }}</span>.</div>
+	<div class="entry">
+		{{ content }}
+	</div>
+</div>

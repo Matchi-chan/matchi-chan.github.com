@@ -1,0 +1,14 @@
+name: Matchi's blog thing
+description: I keep on fighting against God, in a dirty cruel place...
+url: http://matchi.labcoats.eu
+markdown: rdiscount
+pygments: true
+permalink: posts/:title
+exclude: ['Rakefile', 'README.md', 'config.rb', 'CNAME']
+authors:
+  Matchi-chan:
+    display_name: Matchi-chan
+    twitter: Matchi_chan
+    github: Matchi-chan
+    url: https://twitter.com/Matchi_chan
+    age: 18
