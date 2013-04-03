@@ -10,7 +10,7 @@ body {
   font-size: 100%; }
 
 body {
-  background-image:url('/img/ps_neutral.png');
+  background-image:url('/img/background.png');
   background-repeat:repeat;
   color: #222222;
   padding: 0;
@@ -1327,6 +1327,6 @@ h3 a {
 	
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
     body {
-  background-image:url('/img/ps_neutral_@2X.png');
+  background-image:url('/img/background_retina.png');
   background-repeat:repeat;}
 }
