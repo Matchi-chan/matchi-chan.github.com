@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 author: Matchi-chan
 title: 'Converting PSP Project Diva audio files to play on PC'
