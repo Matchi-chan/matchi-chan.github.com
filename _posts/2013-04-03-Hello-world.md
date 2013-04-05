@@ -10,4 +10,4 @@ This is a test.
 
 It worked!
 
-I also have the source for this blog up on [Github](http://https://github.com/Matchi-chan/matchi-chan.github.com)
+I also have the source for this blog up on [Github](https://github.com/Matchi-chan/matchi-chan.github.com)
