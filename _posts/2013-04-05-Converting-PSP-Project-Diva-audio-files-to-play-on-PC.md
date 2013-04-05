@@ -19,7 +19,7 @@ And I'm going to tell you how to do it. This method should work for Extend too (
 7. In commandline, simply type cpk_unpack.exe Diva2Sound.cpk and press enter, now wait for all the files to extract.
 8. The files you're left with are .aix format, which I don't think you can directly play, so for me to be able to play them in foobar2000 we will need to convert them. We will be converting them to .adx which foobar can play with the [foo_adpcm](http://www.foobar2000.org/components/view/foo_adpcm) component.
 9. Download [aix2adx.exe](http://wikiwiki.jp/koyayasen/?aix2adx.exe%20%A5%C0%A5%A6%A5%F3%A5%ED%A1%BC%A5%C9) and put it in the same folder as your .aix files (cpk_unpack should've made a Diva2Sound.cpk_unpacked folder) 
-10. Use [this](https://gist.github.com/Matchi-chan/5319228] batch file I made to convert all the .aix files in batch. This takes about 5 minutes.
+10. Use [this](https://gist.github.com/Matchi-chan/5319228) batch file I made to convert all the .aix files in batch. This takes about 5 minutes.
 11. (Optional) then use move.bat on the above page to move all the adx files to their own folder (called adx)
 12. Open the files in foobar2000 and you can now listen to them, and convert them to mp3. (Beware though, .adx is a lossy format, but converting to 320k mp3 doesn't degrade the quality too much.)
 
