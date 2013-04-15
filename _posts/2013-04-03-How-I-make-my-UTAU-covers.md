@@ -17,10 +17,10 @@ After that, I take the file(s) into UTAU and render them out into a folder I mak
 What I do next is where the magic happens and what skid users of UTAU don't do at all: mixing. For this I use FL Studio. (mostly because I know it's interface and also use it to attempt my failed original music) I open blank Audio Clip channels and load in the output from UTAU along with the song's offvocal. (usually rather bad quality since I often have to get them from Nicosound, I aim to use lossless versions of offvocals if only more of them existed) I then add them all to mixer tracks.
 
 The plugins I use in FL Studio most times are like so in the mixer:
-*Fruity Multiband Compressor
-*Soundgoodizer
-*Fruity Parametric EQ 2
-*(If the song requires it, [like in my most recent cover](http://soundcloud.com/matchi-chan/utau-cover-party-junkie-namine-ritsu) a plugin like distortion.
+<br/>* Fruity Multiband Compressor
+<br/>* Soundgoodizer
+<br/>* Fruity Parametric EQ 2
+<br/>* (If the song requires it, [like in my most recent cover](http://soundcloud.com/matchi-chan/utau-cover-party-junkie-namine-ritsu)) a plugin like distortion.
 
 For the presets in each I usually cycle through for what sounds best, and in the case of EQ 2 I push the left or right knob where there isn't sound to the end where there is (is that even understandable...) and generally fiddle until I get a nice result.
 
