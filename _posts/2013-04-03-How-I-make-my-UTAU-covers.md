@@ -21,7 +21,7 @@ The plugins I use in FL Studio most times are like so in the mixer:
 * Fruity Multiband Compressor
 * Soundgoodizer
 * Fruity Parametric EQ 2
-* (If the song requires it, [like in my most recent cover](http://soundcloud.com/matchi-chan/utau-cover-party-junkie-namine-ritsu), a plugin like distortion. 
+* If the song requires it, [like in my most recent cover](http://soundcloud.com/matchi-chan/utau-cover-party-junkie-namine-ritsu), a plugin like distortion. 
 
 For the presets in each I usually cycle through for what sounds best, and in the case of EQ 2 I push the left or right knob where there isn't sound to the end where there is (is that even understandable...) and generally fiddle until I get a nice result.
 
