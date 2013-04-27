@@ -4,7 +4,7 @@ author: Matchi-chan
 title: 'Oreimo series 2 episode 1 and 2 Review'
 ---
 
-I'm not one to blog airing anime, but this is an exception with how much I love Oreimo. Also, I need stuff to write on this blog. I would've written this as soon as each episode came out, but I recently fell under a really bad cold which rendered me unable to sit down and do anything. So I'll review both episodes in one now I'm a bit more well. 
+I'm not one to blog airing anime, but this is an exception with how much I love Oreimo. Also, I need stuff to write on this blog. I would've written this as soon as each episode came out, but I recently fell under a really bad cold which rendered me unable to sit down and do anything. So I'll review the first episode now I'm a bit more well. 
 
 Spoiler warnings.
 
@@ -75,5 +75,3 @@ Then, the episode ends and we hear the new OP theme.
 Can't have an OP that isn't by kz for ClariS! It wouldn't be Oreimo otherwise. The song has grown on me, but it can never top irony, the OP to the first series.
 
 Overall, a good solid episode that seems to manage the two endings to the first series well.
-
--will do episode 2 once I've watched it, can't be bothered now-
