@@ -1,3 +1,3 @@
 matchi-chan.github.com
 ----
-A blog thing I wanted to make, located at matchi.labcoats.eu
+My website, located at matchi.labcoats.eu and hosted by Github Pages
