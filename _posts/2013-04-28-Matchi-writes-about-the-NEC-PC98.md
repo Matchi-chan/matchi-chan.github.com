@@ -1,5 +1,4 @@
-  
-  ---
+---
 layout: post
 author: Matchi-chan
 title: 'Matchi writes about the NEC PC98'
