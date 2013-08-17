@@ -1336,7 +1336,7 @@ body::after {
 
     position: fixed !important;
 
-        content: url('../img/marisa.jpg');
+        content: url('../img/marisa.png');
 
     bottom: -3px !important; 
 
