@@ -1330,3 +1330,14 @@ h3 a {
   background-image:url('/img/background_retina.png');
   background-repeat:repeat;}
 }
+
+
+.footer {
+
+background-image:url("img\marisa.jpg");
+background-position:bottom left;
+background-repeat:no-repeat;
+background-attachment:fixed;   
+margin:0px;
+height:100%;
+}
