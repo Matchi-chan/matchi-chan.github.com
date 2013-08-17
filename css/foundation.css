@@ -1327,17 +1327,34 @@ h3 a {
 	
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
     body {
-  background-image:url('/img/background_retina.png');
+  background-image:url('../img/background_retina.png');
   background-repeat:repeat;}
 }
 
+@media only screen and (min-width: 48em) {
+body::after {
 
-.footer {
+    position: fixed !important;
 
-background-image:url("img\marisa.jpg");
-background-position:bottom left;
-background-repeat:no-repeat;
-background-attachment:fixed;   
-margin:0px;
-height:100%;
+        content: url('../img/marisa.jpg');
+
+    bottom: -3px !important; 
+
+    right: 0px !important;
+
+  opacity:0.7;
+
+  z-index:-1;
+
+}
+/*
+
+Default Values
+
+    bottom: -17px !important; 
+
+    right: 0px !important;
+
+*/
+
 }
