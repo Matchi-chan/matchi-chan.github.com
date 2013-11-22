@@ -20,7 +20,7 @@ I then began to examine the packets with Shark Reader (there are well over a tho
 
 Just to say: I am not an expert in networking and security, this is the first time I've done a packet sniff.
 
--In the first 15 packets, there is an HTTP POST to http://api.m.renren.com for some reason, which is a Chinese social network. Must be related to the data recovery system that I have linked to my Twitter, seeing as the game is available in Chinese. [Screenshot]()
+-In the first 15 packets, there is an HTTP POST to http://api.m.renren.com for some reason, which is a Chinese social network. Must be related to the data recovery system that I have linked to my Twitter, seeing as the game is available in Chinese. [Screenshot](http://i.imgur.com/vNAOyQK.png)
 
 -A packet that says "connect nubee com" [Screenshot](http://i.imgur.com/SJeIRzu.png)
 
