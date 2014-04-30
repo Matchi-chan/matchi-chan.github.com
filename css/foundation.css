@@ -1325,12 +1325,14 @@ h3 a {
 .alert-box.secondary a:hover, a:focus {
     color: #999999; }
 	
+/* Use background_retina.png if on a 2x pixel display */	
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
     body {
   background-image:url('../img/background_retina.png');
   background-repeat:repeat;}
 }
 
+/* Marisa */
 @media only screen and (min-width: 48em) {
 body::after {
 
