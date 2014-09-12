@@ -24,7 +24,7 @@ Minimalism in it's current state is just obnoxious. Don't do it. And if you must
 
 There was nothing wrong with Holo, Google. Holo Dark is <3 and if I'm ever not stupid enough, I'll be making my programs with that.
 
-I'm not saying we should go back to the 90s and put <blink> and <marquee> everywhere, but actually just put some effort into your design. I buy a £340 phone (or a £700 iPhone) and what do I look at on it? Program and webpage design that I can do in 10 minutes in MS Paint. In the end though, it all boils down to my hate of change.
+I'm not saying we should go back to the 90s and put blink and marquee HTML tags everywhere, but actually just put some effort into your design. I buy a £340 phone (or a £700 iPhone) and what do I look at on it? Program and webpage design that I can do in 10 minutes in MS Paint. In the end though, it all boils down to my hate of change.
 
 What really hurts is I feel like the only person who hates all this, so I can't talk to anyone about it which is why I'm writing this.
 
