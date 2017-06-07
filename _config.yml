@@ -1,6 +1,6 @@
 name: Matchi's blog thing
 url: http://matchi.moe
-pygments: true
+highlighter: rouge
 permalink: posts/:title
 exclude: ['Rakefile', 'README.md', 'config.rb', 'CNAME']
 authors:
