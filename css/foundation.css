@@ -10,7 +10,7 @@ body {
   font-size: 100%; }
 
 body {
-  background-image:url('/img/background.png');
+//  background-image:url('/img/background.png');
   background-repeat:repeat;
   color: #222222;
   padding: 0;
@@ -51,7 +51,7 @@ img {
 .right {
   float: right !important;
   margin-left: 5px; }
-  
+
 .text-left {
   text-align: left !important; }
 
@@ -1281,8 +1281,8 @@ kbd {
 		      left: 0;
 		      width: 100%;
 		      height: 100%; }
-		  
-	  
+
+
 		  /* Custom stuff */
 
 .meta {
@@ -1324,9 +1324,9 @@ h3 a {
 	}
 .alert-box.secondary a:hover, a:focus {
     color: #999999; }
-	
-/* Use background_retina.png if on a 2x pixel display */	
-@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
+
+/* Use background_retina.png if on a 2x pixel display */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     body {
   background-image:url('../img/background_retina.png');
   background-repeat:repeat;}
@@ -1338,9 +1338,9 @@ body::after {
 
     position: fixed !important;
 
-        content: url('../img/marisa.png');
+    //    content: url('../img/marisa.png');
 
-    bottom: -3px !important; 
+    bottom: -3px !important;
 
     right: 0px !important;
 
@@ -1353,7 +1353,7 @@ body::after {
 
 Default Values
 
-    bottom: -17px !important; 
+    bottom: -17px !important;
 
     right: 0px !important;
 
